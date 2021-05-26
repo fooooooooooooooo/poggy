@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Inter';
-  src: url("pogger.ttf") format("truetype"),
-    url("poggy.woff") format("woff"),
-    url("poggy.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/fooooooooooooooo/poggy@master/pogger.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/fooooooooooooooo/poggy@master/poggy.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/fooooooooooooooo/poggy@master/poggy.woff2") format("woff2");
 }
