@@ -1,4 +1,6 @@
 @font-face {
   font-family: 'Inter';
   src: url("https://github.com/fooooooooooooooo/poggy/raw/master/pogger.ttf") format("truetype"),
+    url("https://github.com/fooooooooooooooo/poggy/raw/master/pogger.woff") format("woff"),
+    url("https://github.com/fooooooooooooooo/poggy/raw/master/pogger.woff2") format("woff2");
 }
